@@ -1,0 +1,59 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name" : "Random Quote Generator",
+            "description" : "This is the very first project I completed in the Techdegree Program. All of the generated quotes are from powerful Black Women. With every randomly generated quote, there's a random background color that accompanies the quote. If you don't feel like clicking the button for a new quote/color, don't worry. The page automatically generates with another random quote and color.",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "live_link" : "https://courtneyl22.github.io/techdegree-project1/",
+            "github_link" : "https://github.com/courtneyl22/techdegree-project1",
+            "main_url" : "/static/images/project1/main.png",
+            "image_urls" : ["/static/images/project1/proj1.png", "/static/images/project1/proj1-1.png", "/static/images/project1/proj1-2.png"]     
+        },
+
+        {
+            "id": "1",
+            "project_name" : "List Pagination & Filtering",
+            "description" : "This project required me to do the following: 1) take a long list of students and divide it into a series of pages, 2) display a maximum of 10 students on each page, 3) provide navigation to jump to a list of more students, and 4) improve the user's experience of a web page using pure JavaScript.",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "live_link" : "https://courtneyl22.github.io/techdegree-project2/#",
+            "github_link" : "https://github.com/courtneyl22/techdegree-project2",
+            "main_url" : "/static/images/project2/main.png",
+            "image_urls" : ["/static/images/project2/proj2.png", "/static/images/project2/proj2-1.png", "/static/images/project2/proj2-2.png"]      
+        },
+
+        {
+            "id": "2",
+            "project_name" : "Interactive Form",
+            "description" : "This interactive form requires the following from the user: 1) name, 2) validly formatted e-mail address, 3) at least one checked activity, and 4) if 'Credit Card' is the selected payment option, the three fields accept only numbers (13 to 16-digit credit card number, 5-digit zip code, and 3-number CVV value). The user cannot select two activities that are at the same time, and the total cost of selected activities is calculated and displayed below the list of activities.",
+            "technologies" : ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link" : "https://courtneyl22.github.io/techdegree-project3/index.html",
+            "github_link" : "https://github.com/courtneyl22/techdegree-project3",
+            "main_url" : "/static/images/project3/main.png",
+            "image_urls" : ["/static/images/project3/proj3.png", "/static/images/project3/proj3-1.png", "/static/images/project3/proj3-2.png"]       
+        },
+
+        {
+            "id": "3",
+            "project_name" : "Phrase Hunter",
+            "description" : "Guess the singer/rapper. They're all women in the HipHop and R&B genres. You are given 5 chances to guess the right answer. If you do... congratulations, you win! If you don't, it's okay... you tried.",
+            "technologies" : ["HTML", "CSS", "Object-Oriented Programming", "JavaScript", "jQuery"],
+            "live_link" : "https://courtneyl22.github.io/treehouse-project4/",
+            "github_link" : "https://github.com/courtneyl22/treehouse-project4",
+            "main_url" : "/static/images/project4/main.png",
+            "image_urls" : ["/static/images/project4/proj4.png", "/static/images/project4/proj4-1.png", "/static/images/project4/proj4-2.png"]      
+        },
+
+        {
+            "id": "4",
+            "project_name" : "Public API Request",
+            "description" : "Here, 12 random users from the United States are pulled from the Random User API & includes the following for each user: 1) Employee Image, 2) First and Last Name, 3) Email, 4) City or location. New random employee information displays each time the page refreshes. Clicking on an employee displays the modal window (shown in snapshot).",
+            "technologies" : ["HTML", "CSS", "JavaScript", "AJAX", "jQuery"],
+            "live_link" : "https://courtneyl22.github.io/techdegree-project5/",
+            "github_link" : "https://github.com/courtneyl22/techdegree-project5",
+            "main_url" : "/static/images/project5/main.png",
+            "image_urls" : ["/static/images/project5/proj5-1.png", "/static/images/project5/proj5.png", "/static/images/project5/proj5-2.png"]    
+        }
+    ]
+}
+

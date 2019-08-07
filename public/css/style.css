@@ -1,0 +1,167 @@
+
+h1,h2,h3,h4,h5,p{
+  font-family: 'Darker Grotesque', sans-serif;
+}
+
+  h5{
+    font: 'Darker Grotesque', sans-serif;
+    letter-spacing: 2.5px;
+    color: #ffffff;
+    -webkit-text-transform: uppercase;
+    text-transform: uppercase;
+  }
+
+  h6{
+    letter-spacing: 2.5px;
+    -webkit-text-transform: uppercase;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  p{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+  }
+
+h1 {
+  color: #0369ad;
+}
+
+h6 {
+  color: #0369ad;
+}
+
+.round{
+  border-radius: 5px;
+}
+
+body {
+  background-image: url('https://images.pond5.com/modern-blue-business-technology-background-footage-077433698_prevstill.jpeg');
+}
+
+
+.text-light{
+  color: #ffffff;
+}
+
+.button{
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #0369ad;
+  background-color: #ffffff4d;
+}
+
+.button:hover{
+  background-color: #0369ad;
+}
+
+a{
+  color: #0369ad;
+}
+
+a:hover{
+  color: #ffffff;
+}
+
+.image{
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  border: solid 4px #fefefe;
+  border-radius: 0;
+  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  line-height: 0;
+}
+
+.portfolio-me{
+  padding: 30px;
+  background: #ffffff00;
+  color: #ffffff;
+  box-shadow: none !important;
+}
+
+  .portfolio-me p{
+    font-size: 14px;
+    color: #ffffff;
+  }
+
+  .portfolio-me a{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-weight: 600;
+    color: rgb(0, 111, 175);
+    font-size: 18px;
+    letter-spacing: 2.5px;
+    -webkit-text-transform: uppercase;
+    text-transform: uppercase;
+  }
+
+  .portfolio-me a:hover{
+    color: #ffffff;
+  }
+
+.portfolio-breadcrumb{
+  margin: 0;
+  padding: 20px;
+  border-bottom: 1px solid #ffffff;
+}
+
+ .portfolio-breadcrumb a{
+   font-family: 'Darker Grotesque', sans-serif;
+   font-weight: 600;
+   font-size: 15px;
+   letter-spacing: 2.5px;
+   -webkit-text-transform: uppercase;
+   text-transform: uppercase;
+ }
+
+.portfolio-intro{
+  margin: 0;
+  padding: 40px 50px 30px;
+}
+
+.portfolio-intro p{
+  border-bottom: 1px solid #ffffff;
+  padding-bottom: 40px;
+}
+
+.portfolio-index{
+  margin: 0;
+  padding: 10px 50px;
+}
+
+  .portfolio-index .thumbnail{
+    margin-bottom: 5px;
+  }
+
+  .portfolio-index a{
+    color: #ffffff;
+  }
+
+  .portfolio-index .cell{
+    margin-bottom: 15px;
+  }
+
+    .portfolio-index .cell h5{
+      letter-spacing: 1px;
+    }
+
+.portfolio-meta{
+  padding-left: 20px;
+}
+
+  .portfolio-meta .button{
+    margin-bottom: 5px;
+  }
+
+.portfolio-project p{
+  border: none;
+}
+
+.portfolio-project li{
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.portfolio-bio{
+    line-height: 25px;
+    
+}
